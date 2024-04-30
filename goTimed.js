@@ -62,6 +62,6 @@
             }
             setTimeout(waiting, 200);
             setTimeout(waiting2, 400);
-        }, 1500);
+        }, 3500);
     }, 10000);
   })();
